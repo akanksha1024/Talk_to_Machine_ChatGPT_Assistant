@@ -1,0 +1,12 @@
+Talk to Machines: Build AI Assistants with ChatGPT
+Type your message and press Enter. Type 'exit' or 'quit' to stop.
+
+You: Who invented ChatGPT?
+Bot: ChatGPT was developed by OpenAI.
+
+You: What is prompt engineering?
+Bot: Prompt engineering is the process of writing clear instructions or examples so an AI model gives useful and accurate responses.
+
+You: quit
+Bot: Goodbye.
+Transcript saved to chat_transcript.txt

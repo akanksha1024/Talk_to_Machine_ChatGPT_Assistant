@@ -1,0 +1,18 @@
+Submission Checklist
+====================
+
+[x] Python implementation created
+[x] ChatGPT API request uses requests
+[x] API key authentication included
+[x] Endpoint and headers implemented
+[x] Data payload implemented with model, prompt, temperature, max_tokens
+[x] POST request implemented
+[x] Response processing implemented
+[x] Continuous input loop implemented
+[x] Error handling included
+[x] Demo mode included for presentation without an API key
+[x] README included
+[x] Project report included
+[x] Sample output included
+[x] Unit tests included
+[x] ZIP submission package created
